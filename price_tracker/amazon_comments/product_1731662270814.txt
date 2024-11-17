@@ -1,0 +1,49 @@
+Product Details:
+title: Lenovo Refurbished Thinkpad Intel Core I5 8 GB RAM 500 GB HDD 12.5'' Black (6 Months WRTY)
+description: + shipping from KSh 149 to CBD - UON/Globe/Koja/River Road
+features: ['5th Generation Intel® Core™ Processors', 'Comes with 8GB Memory', 'Windows 10 64-bit Operating System', 'Ultraportable Yet Professionally Powered', 'Ultrathin, Ultralight & Compact', 'Passes 11 Military Spec Tests', 'Three-Button ClickPad With TrackPoint', 'Hot Swap Batteries for 20 Hours of Mobility', 'Available Multitouch & IPS Displays', 'Processor : Intel Core i5', 'Display Size (in): 12.5', 'Operating System: 10 trial', 'Screen Technology: LED', 'Memory Size (GB): 500', 'RAM : 8', 'Main material: -', 'Size (L x W x H cm): 8.2 x 12 x 0.8 in', 'Weight (kg): 1.5', '1 LAPTOP', '1 POWER ADAPTER', 'SKU: LE842CL0JMKO7NAFAMZ', 'Model: X250', 'Size (L x W x H cm): 8.2 x 12 x 0.8 in', 'Weight (kg): 1.5', 'Main Material: PVC', 'Warranty Address: (6 Months WRTY)Star Mall, Tom Mboya Street', '5\n(18)', '4\n(10)', '3\n(5)', '2\n(1)', '1\n(6)', 'Help Center', 'Contact Us', 'Track Your Order', 'Shipping and delivery', 'Pick-up Stations', 'Return Policy', 'How to Order?', 'Dispute Resolution Policy', 'Corporate and Bulk Purchase', 'Advertise with Jumia', 'Report a Product', 'Jumia Payment Information Guidelines', 'Black Friday', 'About us', 'Returns and Refunds Policy', 'Jumia Careers', 'Jumia Express', 'Terms and Conditions', 'Store Credit Terms and Conditions', 'Privacy Notice', 'Cookies Notice', 'Flash Sales', 'Jumia Global', 'Sell on Jumia', 'Vendor Hub', 'Become a Sales Consultant', 'Become a Logistics Service Partner', 'Jumia City Partner Program', 'Algeria', 'Ivory Coast', 'Egypt', 'Ghana', 'Morocco', 'Nigeria', 'Senegal', 'Uganda', 'Adidas', 'AILYONS', 'Apple', 'Asus', 'Bruhm', 'Canon', 'Cantu', 'Coke', 'DELL', 'Dove', 'Dr. Rashel', 'Epson', 'Garnier', 'Hisense', 'HP', 'Infinix', 'Itel', 'Jameson', "L'Oréal Paris", 'Lenovo', 'Logitech', 'Maybelline', 'Mika', 'NIVEA', 'Nunix', 'Oppo', 'Ramtons', 'Roch', 'Samsung', 'Sandisk', 'Skyworth', 'Sony', 'TCL', 'Tecno', 'Transcend', 'Tusker', 'USN', 'Vision Plus', 'Vitron', 'VON', 'XIAOMI']
+
+Comments:
+rating: 3, title: i like it, body: the camera was not wotking
+rating: 4, title: lenovo, body: Working well,
+rating: 3, title: fan issue, body: The fan was noisy
+rating: 3, title: i like it, body: the camera was not wotking
+rating: 4, title: lenovo, body: Working well,
+rating: 3, title: fan issue, body: The fan was noisy
+rating: 1, title: the battery failed, body: Very bad!
+rating: 3, title: I like, body: Nice gadget but has a battery problem
+rating: 5, title: great, body: What i expected ????
+rating: 5, title: VALUE FOR MONEY IT IS, body: This machine is just worth the money, a perfect combination of portability, efficiency and speed. Good machine, I just love it and being a lenovo, it's just epic!
+rating: 3, title: The machine is good, body: Nice
+rating: 5, title: I like it., body: It's was more than expected, thanks
+rating: 1, title: am learning to use it, body: Keyboards are wrongly labelled
+rating: 3, title: i like it, body: the camera was not wotking
+rating: 4, title: lenovo, body: Working well,
+rating: 3, title: fan issue, body: The fan was noisy
+rating: 1, title: the battery failed, body: Very bad!
+rating: 3, title: I like, body: Nice gadget but has a battery problem
+rating: 5, title: great, body: What i expected ????
+rating: 5, title: VALUE FOR MONEY IT IS, body: This machine is just worth the money, a perfect combination of portability, efficiency and speed. Good machine, I just love it and being a lenovo, it's just epic!
+rating: 3, title: The machine is good, body: Nice
+rating: 5, title: I like it., body: It's was more than expected, thanks
+rating: 1, title: am learning to use it, body: Keyboards are wrongly labelled
+rating: 3, title: i like it, body: the camera was not wotking
+rating: 4, title: lenovo, body: Working well,
+rating: 3, title: fan issue, body: The fan was noisy
+rating: 1, title: the battery failed, body: Very bad!
+rating: 3, title: I like, body: Nice gadget but has a battery problem
+rating: 5, title: great, body: What i expected ????
+rating: 5, title: VALUE FOR MONEY IT IS, body: This machine is just worth the money, a perfect combination of portability, efficiency and speed. Good machine, I just love it and being a lenovo, it's just epic!
+rating: 3, title: The machine is good, body: Nice
+rating: 5, title: I like it., body: It's was more than expected, thanks
+rating: 1, title: am learning to use it, body: Keyboards are wrongly labelled
+rating: 3, title: i like it, body: the camera was not wotking
+rating: 4, title: lenovo, body: Working well,
+rating: 3, title: fan issue, body: The fan was noisy
+rating: 1, title: the battery failed, body: Very bad!
+rating: 3, title: I like, body: Nice gadget but has a battery problem
+rating: 5, title: great, body: What i expected ????
+rating: 5, title: VALUE FOR MONEY IT IS, body: This machine is just worth the money, a perfect combination of portability, efficiency and speed. Good machine, I just love it and being a lenovo, it's just epic!
+rating: 3, title: The machine is good, body: Nice
+rating: 5, title: I like it., body: It's was more than expected, thanks
+rating: 1, title: am learning to use it, body: Keyboards are wrongly labelled
